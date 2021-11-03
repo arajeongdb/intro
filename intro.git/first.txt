@@ -1,2 +1,4 @@
 基本的なワークフローについて
 Gitについて学びます。
+git add
+git commit
